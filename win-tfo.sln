@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "win-tfo-client", "win-tfo-client.vcxproj", "{2D047CD5-7567-4C09-8B2C-C783A4B3BA39}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "win-tfo-server", "win-tfo-server.vcxproj", "{70481573-F0AF-4904-AA48-09E1B33139A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D047CD5-7567-4C09-8B2C-C783A4B3BA39}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{2D047CD5-7567-4C09-8B2C-C783A4B3BA39}.Debug|x64.ActiveCfg = Debug|x64
+		{2D047CD5-7567-4C09-8B2C-C783A4B3BA39}.Debug|x64.Build.0 = Debug|x64
+		{2D047CD5-7567-4C09-8B2C-C783A4B3BA39}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D047CD5-7567-4C09-8B2C-C783A4B3BA39}.Debug|x86.Build.0 = Debug|Win32
+		{2D047CD5-7567-4C09-8B2C-C783A4B3BA39}.Release|Any CPU.ActiveCfg = Release|Win32
+		{2D047CD5-7567-4C09-8B2C-C783A4B3BA39}.Release|x64.ActiveCfg = Release|x64
+		{2D047CD5-7567-4C09-8B2C-C783A4B3BA39}.Release|x64.Build.0 = Release|x64
+		{2D047CD5-7567-4C09-8B2C-C783A4B3BA39}.Release|x86.ActiveCfg = Release|Win32
+		{2D047CD5-7567-4C09-8B2C-C783A4B3BA39}.Release|x86.Build.0 = Release|Win32
+		{70481573-F0AF-4904-AA48-09E1B33139A2}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{70481573-F0AF-4904-AA48-09E1B33139A2}.Debug|x64.ActiveCfg = Debug|x64
+		{70481573-F0AF-4904-AA48-09E1B33139A2}.Debug|x64.Build.0 = Debug|x64
+		{70481573-F0AF-4904-AA48-09E1B33139A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{70481573-F0AF-4904-AA48-09E1B33139A2}.Debug|x86.Build.0 = Debug|Win32
+		{70481573-F0AF-4904-AA48-09E1B33139A2}.Release|Any CPU.ActiveCfg = Release|Win32
+		{70481573-F0AF-4904-AA48-09E1B33139A2}.Release|x64.ActiveCfg = Release|x64
+		{70481573-F0AF-4904-AA48-09E1B33139A2}.Release|x64.Build.0 = Release|x64
+		{70481573-F0AF-4904-AA48-09E1B33139A2}.Release|x86.ActiveCfg = Release|Win32
+		{70481573-F0AF-4904-AA48-09E1B33139A2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
